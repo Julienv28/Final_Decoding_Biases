@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
-gh-repo: daattali/beautiful-jekyll
+title: General Introduction to our subject
+subtitle: Learn more about our motivations and research questions
+gh-repo: Julienv28/Final_Decoding_Biases
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 mathjax: true
-author: Bill Smith
+author: Aiza Sakieva
 ---
 
 {: .box-success}
