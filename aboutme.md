@@ -1,16 +1,18 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About us
+subtitle: Why you'd like to pay attention to our work
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+We are a group of devoted Sciences Po Students. We want to focus here on:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- AI Biases
+- Gender-based impact of Algorithms
+- Queer Discriminations
+- Facial Recognition
 
-What else do you need?
+Already excited to read it?
 
-### My story
+### The story behind this project
 
 To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
