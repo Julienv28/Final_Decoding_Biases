@@ -97,7 +97,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "AI_Facial_Recognition_Decoding_Biases.com"
+url-pretty: "https://github.com/Julienv28/Final_Decoding_Biases"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
