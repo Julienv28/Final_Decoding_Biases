@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How did we lead this study ?
-subtitle: Methodology
+subtitle: "3 - Methodology"
 date: 2025-05-07
 cover-img: /assets/img/cover_1.jpg
 share-img: /assets/img/cover_1.jpg
@@ -22,7 +22,7 @@ It is important to note that the sample skews heavily toward white individuals, 
 We used a Python script provided in Jean-Philippe Cointet’s Decoding Biases in AI course, modified for our needs to process multiple images efficiently. An additional feature was added to reduce binary classification bias: if the confidence score of the AI dropped below 0.7, the output was marked as “Uncertain.” This mitigates the risk of forced gender classification when a profile does not align with binary gender norms.
 AI-generated results—including estimated gender and age—were logged in two separate Excel files (one for cisgender individuals, one for transgender individuals). Since the algorithm predicts age ranges rather than exact values, we retained the value closest to the actual age to assess match accuracy fairly.
 
-![Picture]({{ '/assets/img/pic_sample.png' | relative_url }})
+![Sample]({{ '/assets/img/pic_sample.png' | relative_url }})
 An example of Facial Recognition Application.
 
 ## Data Analysis
