@@ -2,6 +2,7 @@
 layout: post
 title: How did we lead this study ?
 subtitle: Methodology
+date: 2025-05-07
 cover-img: /assets/img/cover_1.jpg
 share-img: /assets/img/cover_1.jpg
 tags: [methodology]
