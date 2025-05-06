@@ -24,7 +24,7 @@ AI-generated results—including estimated gender and age—were logged in two s
 
 ![Sample]({{ '/assets/img/pic_sample.png' | relative_url }})
 
-An example of Facial Recognition Application.
+_An example of Facial Recognition Application._
 
 ## Data Analysis
 We began our analysis by cleaning and standardizing the dataset to align variable names, enabling easy merging of the two datasets when necessary. Rows where the algorithm failed to detect a face were removed (these were identifiable by an age value of 0).
