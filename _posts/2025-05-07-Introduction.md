@@ -4,7 +4,7 @@ title: General Introduction to our subject
 subtitle: Learn more about our motivations and research questions
 gh-repo: Julienv28/Final_Decoding_Biases
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [introduction]
 comments: true
 mathjax: true
 author: Aiza Sakieva
@@ -21,12 +21,7 @@ This is a demo post to show you how to write blog posts with markdown.  I strong
 
 Here's a table:
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+
 
 You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
 When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
