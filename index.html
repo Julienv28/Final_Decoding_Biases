@@ -14,25 +14,12 @@ subtitle: A presentation on How AI is affecting Trans individuals
 
   {% include nav.html %}
 
+  <h1>This page is under construction</h1>
+  <p> This page is under construction, pleasee come back later</p>
+
   {% include footer.html %}
 
-  <h1>This page is under construction</h1>
-  <p> This page is under construction, please come back later</p>
-  
-  <div class="post-list">
-    {% for post in paginator.posts %}
-      {% include post_preview.html %}
-    {% endfor %}
-  </div>
-  
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-    {% endif %}
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-    {% endif %}
-  </div>
+  {% include footer-scripts.html %}
 
 </body>
 </html>

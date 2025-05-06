@@ -87,6 +87,9 @@ rss-description: This website is a virtual proof that our work in Decoding Biase
 # --- General options --- #
 ###########################
 
+# Enable future posts to be shown
+future: true
+
 # Select which social network share links to show in posts
 share-links-active:
   twitter: false
