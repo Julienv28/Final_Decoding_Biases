@@ -23,14 +23,16 @@ We used a Python script provided in Jean-Philippe Cointet’s Decoding Biases in
 AI-generated results—including estimated gender and age—were logged in two separate Excel files (one for cisgender individuals, one for transgender individuals). Since the algorithm predicts age ranges rather than exact values, we retained the value closest to the actual age to assess match accuracy fairly.
 
 ![Sample]({{ '/assets/img/pic_sample.png' | relative_url }})
+
 An example of Facial Recognition Application.
 
 ## Data Analysis
 We began our analysis by cleaning and standardizing the dataset to align variable names, enabling easy merging of the two datasets when necessary. Rows where the algorithm failed to detect a face were removed (these were identifiable by an age value of 0).
 
-| Personnality | Picture_Found | Male | Female | Non-Binary | Age | Male AI | Female_AI | Uncertain_AI | Age_AI | 
-| :------ |:------- | :---------- |:------ |:--- | :--- | :------ |:--- | :--- | :------ |
-| Name | 0 - 1 | 0 - 1 | 0 - 1 | 0 - 1 | xx | 0 - 1 | 0 - 1 | 0 - 1 | xx |
+| Personnality | Picture_Found | Male | Female | Non-Binary | Age | Male AI | Female AI | Uncertain AI | Age AI |
+| :----------- | :------------ | :--- | :----- | :--------- | :-- | :------ | :-------- | :----------- | :----- |
+| Name         | 0 - 1         | 0 - 1 | 0 - 1  | 0 - 1      | xx  | 0 - 1   | 0 - 1     | 0 - 1        | xx     |
+
 Table of Analysis
 
 The resulting dataset includes six binary columns indicating both actual and AI-predicted gender identities (male, female, non-binary), alongside exact and predicted ages.
