@@ -36,6 +36,14 @@ We anticipate that all four hypotheses will be supported, meaning that the AI fa
 
 ## References
 
+Statista. “Facial Recognition - Europe | Statista Market Forecast.” Statista, 2025. https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/facial-recognition/europe.
+
+To, Margaret, Qi Zhang, Andrew Bradlyn, Darios Getahun, Shawn Giammattei, Rebecca Nash, Ashli A. Owen-Smith, et al. “Visual Conformity with Affirmed Gender or ‘Passing’: Its Distribution and Association with Depression and Anxiety in a Cohort of Transgender People.” The Journal of Sexual Medicine 17, no. 10 (October 2020): 2084–92. https://doi.org/10.1016/j.jsxm.2020.07.019.
+
+TrendMatrix Analytics. “Europe Facial Recognition Market Analysis the Europe Facial Recognition Market Has Experienced Significant Growth in Recent Years and Is Expected to Continue Its Upward Trajectory over the next 5–10 Years.” Linkedin.com, March 31, 2025. https://www.linkedin.com/pulse/europe-facial-recognition-market-size-regional-trends-ktkff/.
+
+Vito Fabbrizio. “Facial Recognition for Borders and Travel: 2025 Trends and Insights.” Biometric Update. BiometricUpdate.com, January 20, 2025. https://www.biometricupdate.com/202501/facial-recognition-for-borders-and-travel-2025-trends-and-insights.
+
 <!-- {: .box-success}
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
 
