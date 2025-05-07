@@ -36,7 +36,7 @@ We anticipate that all four hypotheses will be supported, meaning that the AI fa
 
 ## References
 
-Statista. “Facial Recognition - Europe | Statista Market Forecast.” Statista, 2025. https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/facial-recognition/europe.
+Statista. “Facial Recognition - Europe ; Statista Market Forecast.” Statista, 2025. https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/facial-recognition/europe.
 
 To, Margaret, Qi Zhang, Andrew Bradlyn, Darios Getahun, Shawn Giammattei, Rebecca Nash, Ashli A. Owen-Smith, et al. “Visual Conformity with Affirmed Gender or ‘Passing’: Its Distribution and Association with Depression and Anxiety in a Cohort of Transgender People.” The Journal of Sexual Medicine 17, no. 10 (October 2020): 2084–92. https://doi.org/10.1016/j.jsxm.2020.07.019.
 
