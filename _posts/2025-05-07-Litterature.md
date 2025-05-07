@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What has been Done so Far ?
+title: What have been studied so far ?
 subtitle: "2 - Litterature review"
 date: 2025-05-07
 cover-img: /assets/img/cover_3.png
