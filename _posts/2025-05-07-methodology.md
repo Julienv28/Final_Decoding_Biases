@@ -40,6 +40,7 @@ The data were analyzed in three stages:
 - General Gender Mismatch: We examined mismatches between actual and AI-detected gender across the entire dataset.
 - Cis/Trans Comparison: We compared classification disparities between cisgender and transgender groups.
 - Age Analysis: Using boxplots, we visualized the difference between actual and predicted ages, highlighting distributions, minima, and maxima across groups.
+
 Finally, we synthesized the gender and age results to calculate general matching rates, offering a comprehensive view of the disparities in AI performance across groups.
 
 ## References 
