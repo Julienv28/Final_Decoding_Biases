@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learn more about our motivations and research questions 
-subtitle: "1 - General Introduction to our subject"
+subtitle: "1 - General Introduction to our Subject"
 gh-repo: Julienv28/Final_Decoding_Biases
 date: 2025-05-07
 tags: [introduction]
