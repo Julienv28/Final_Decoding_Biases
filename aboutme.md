@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About us
+title: About Me
 subtitle: Why you'd like to pay attention to our work
 ---
 
